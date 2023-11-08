@@ -1,6 +1,4 @@
-{
-	"cars": {
-		"car": [
+[
 			{
 				"Id": "150c19ae-3596-4628-9014-f4feb4e2b874",
 				"Make": "BMW",
@@ -13002,5 +13000,3 @@
 				"Engine": "Diesel engine"
 			}
 		]
-	}
-}
